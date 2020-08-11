@@ -1,11 +1,11 @@
 # Site settings
-title: Roh Younwoo(노연우)
+title: Roh Younwoo
 email: ywroh0619@gmail.com
 url: https://RohYounwoo.github.io
 baseurl: ""
 description: "My personal computer engineering blog"
 keywords: "your keywords, separated by commas"
-skills: "C - C++ - JavaScript - JAVA - python - DJango"
+skills: "노연우\nC - C++ - JavaScript - JAVA - python - DJango"
 meta_author: Roh Younwoo
 
 # For getting theme from github
