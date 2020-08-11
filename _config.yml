@@ -5,7 +5,7 @@ url: https://RohYounwoo.github.io
 baseurl: ""
 description: "My personal computer engineering blog"
 keywords: "your keywords, separated by commas"
-skills: "노연우\nC - C++ - JavaScript - JAVA - python - DJango"
+skills: "C - C++ - JavaScript - JAVA - python - DJango"
 meta_author: Roh Younwoo
 
 # For getting theme from github
@@ -37,7 +37,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: Roh Younwoo(노연우). Powered by Jekyll
   location: Location
   social: Around the Web
   credits: Credits
