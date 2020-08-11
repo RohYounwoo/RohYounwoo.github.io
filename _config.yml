@@ -10,7 +10,7 @@ meta_author: Roh Younwoo
 
 # For getting theme from github
 # link of theme https://github.com/jeromelachaud/freelancer-theme 
-remote_theme : jeromelachaud/freelancer-theme
+#remote_theme : jeromelachaud/freelancer-theme
 
 # Google webmaster tools
 google_verify:
