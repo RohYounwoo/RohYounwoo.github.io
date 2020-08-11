@@ -1,14 +1,15 @@
 # Site settings
-title: RohYounwoo
+title: Roh Younwoo
 email: ywroh0619@gmail.com
 url: https://RohYounwoo.github.io
 baseurl: ""
 description: "My personal computer engineering blog"
 keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: LastName FirstName
+skills: "C - C++ - JavaScript - JAVA - python - DJango"
+meta_author: Roh Younwoo
 
 # For getting theme from github
+# link of theme https://github.com/jeromelachaud/freelancer-theme 
 remote_theme : jeromelachaud/freelancer-theme
 
 # Google webmaster tools
@@ -44,23 +45,23 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: 
   - title: facebook
-    url:
+    url: https://www.facebook.com/profile.php?id=100009284749002
   - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
+    url: 
   - title: bitbucket
-    url: http://bitbucket.org/jekyll
+    url: 
   - title: github
-    url: http://github.com/jekyll
+    url: http://github.com/rohyounwoo
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 11, Bangbaecheon-ro 18-gil, Seocho-gu
+  - line: Seoul, Republic of Korea
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'myself <a href="http://github.com/rohyounwoo">My GitHub</a>.'
 
 # Build settings
 markdown: kramdown
