@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2020-8-11
-img: person.png
+img: cabin.png
 alt: image-alt
 project-date: July - August, 2019
 client: Head Start Sillicon Valley.inc
