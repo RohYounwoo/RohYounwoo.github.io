@@ -44,12 +44,10 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: instagram-square
+  - title: instagram
     url: https://www.instagram.com/younwoo_roh_chris/?hl=ko
   - title: facebook
     url: https://www.facebook.com/profile.php?id=100009284749002
-  - title: laptop-code
-    url: https://www.acmicpc.net/user/ywroh0619
   - title: linkedin
     url: https://www.linkedin.com/in/younwoo-roh-158498191
   - title: github
