@@ -59,7 +59,7 @@ address:
   - line: Seoul, Republic of Korea
 
 # Credits content
-credits: 'myself <a href="http://github.com/rohyounwoo">My GitHub</a>.'
+credits: 'myself <a href="http://github.com/rohyounwoo">My GitHub</a>.<br>Jekyll theme <a href="https://jekyllthemes.io/theme/freelancer-theme">Freelancer Jekyll theme</a>.'
 
 # Build settings
 markdown: kramdown
