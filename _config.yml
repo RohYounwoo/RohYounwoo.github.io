@@ -5,11 +5,11 @@ url: https://RohYounwoo.github.io
 baseurl: ""
 description: "My personal computer engineering blog"
 keywords: "your keywords, separated by commas"
-skills: "C - C++ - JavaScript - JAVA - python - DJango"
+skills: "C - C# - C++ - JavaScript - JAVA - python - DJango - SparkSQL"
 meta_author: Roh Younwoo
 
 # For getting theme from github
-# link of theme https://github.com/jeromelachaud/freelancer-theme 
+# link of theme https://github.com/jeromelachaud/freelancer-theme
 #remote_theme : jeromelachaud/freelancer-theme
 
 # Google webmaster tools
